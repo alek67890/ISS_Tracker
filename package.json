@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@turf/turf": "^5.1.6",
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "date-fns": "^2.2.1",
     "faker": "^4.1.0",
     "ol": "^5.3.3",
